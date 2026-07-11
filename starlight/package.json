@@ -15,7 +15,7 @@
     "astro": "6.0.8",
     "astro-icon": "^1.1.5",
     "reading-time": "^1.5.0",
-    "sharp": "^0.34.2",
+    "sharp": "^0.35.0",
     "starlight-sidebar-topics": "^0.7.0",
     "starlight-sidebar-topics-dropdown": "^0.6.0",
     "tailwindcss": "^4.1.18"
